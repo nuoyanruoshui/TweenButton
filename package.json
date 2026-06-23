@@ -1,0 +1,14 @@
+{
+  "name": "com.unitytweenbutton.nuoyan",
+  "displayName": "Unity Tween Button",
+  "version": "6.0.0",
+  "unity": "2022.3",
+  "description": "动画按钮组件。",
+  "license": "MIT",
+  "dependencies": {
+    "com.nuoyan.scroll": "1.0,0"
+  },
+  "author": {
+    "name": "NuoYan"
+  }
+}

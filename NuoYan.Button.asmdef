@@ -1,0 +1,16 @@
+{
+    "name": "NuoYan.Button",
+    "rootNamespace": "",
+    "references": [
+        "GUID:965990a81acbaa9429e391778d24d8f5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
